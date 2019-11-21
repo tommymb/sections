@@ -29,7 +29,7 @@ p {
   text-align: left;
 }
 
-div {
+.btn {
   display: inline;
   border: 3px solid #333;
   padding: .4em .75em .5em;
