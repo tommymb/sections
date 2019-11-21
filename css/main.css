@@ -10,8 +10,9 @@ html {
 
 body {
   display: block;
-  padding: 2em;
+  padding: 1em;
   margin: 1.5rem;
+  vertical-align: middle;
 }
 
 h1 {
@@ -30,7 +31,6 @@ p {
   padding-bottom: 1em;
   text-align: left;
   max-width: 25em;
-  vertical-align: middle;
 }
 
 .btn {
