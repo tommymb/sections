@@ -1,7 +1,6 @@
 html {
   background-color: #eee9de;
-  font-family: "Lato", sans-serif;
-  color: #333;
+  font-family: Lato, sans-serif;
   box-sizing: border-box;
 }
 
@@ -21,6 +20,9 @@ h1 {
 
 img {
   max-width: 25em;
+  display: inline;
+  width: auto;
+  padding-bottom: 1em;
 }
 
 p {
