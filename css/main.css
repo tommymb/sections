@@ -1,3 +1,34 @@
 html {
   background-color: #eee9de;
+  font-family: 'Lato', sans-serif;
+  box-sizing: 100%
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  display: block;
+  padding: 2em;
+}
+
+h1 {
+  display: inline-block;
+}
+
+p {
+  display: inline-block;
+  padding-bottom: 1em;
+}
+
+div {
+  display: inline;
+  border: 3px solid #333;
+  padding: .4em .75em .5em;
+  border-radius: 8px;
 }
