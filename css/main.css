@@ -2,6 +2,7 @@ html {
   background-color: #eee9de;
   font-family: 'Lato', sans-serif;
   box-sizing: 100%
+  color: #666;
 }
 
 *, *::before, *::after {
@@ -24,6 +25,7 @@ h1 {
 p {
   display: inline-block;
   padding-bottom: 1em;
+  text-align: left;
 }
 
 div {
@@ -31,4 +33,9 @@ div {
   border: 3px solid #333;
   padding: .4em .75em .5em;
   border-radius: 8px;
+  text-align: center;
+}
+
+div:hover {
+  background-color: #333;
 }
