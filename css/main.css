@@ -20,8 +20,8 @@ h1 {
 
 img {
   max-width: 25em;
-  display: inline;
-  width: auto;
+  display: inline-block;
+  width: 20em;
   padding-bottom: 1em;
 }
 
