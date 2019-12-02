@@ -14,18 +14,22 @@ body {
   margin: 1.5rem;
 }
 
-h1 {
-  display: inline-block;
-}
-
 img {
-  display: flex;
+  display: inline-block;
   width: 20em;
   padding: .4em .75em .5em;
 }
 
+section {
+  display: flex;
+}
+
+h1 {
+  display: block;
+}
+
 p {
-  display: inline-block;
+  display: block;
   padding-bottom: 1em;
   text-align: left;
   max-width: 25em;
@@ -33,7 +37,7 @@ p {
 }
 
 .btn {
-  display: inline-block;
+  display: block;
   border: 3px solid #333;
   padding: .4em .75em .5em;
   border-radius: 8px;
