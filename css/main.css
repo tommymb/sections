@@ -19,10 +19,9 @@ h1 {
 }
 
 img {
-  max-width: 25em;
   display: flex;
-  width: 25em;
-  padding-bottom: 1em;
+  width: 20em;
+  padding: .4em .75em .5em;
 }
 
 p {
