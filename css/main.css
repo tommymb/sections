@@ -15,12 +15,12 @@ body {
 }
 
 img {
-  display: inline-block;
+  display: block;
   width: 20em;
   padding: .4em .75em .5em;
 }
 
-section {
+section img{
   display: flex;
 }
 
